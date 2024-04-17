@@ -23,7 +23,7 @@ The primary purpose of this second part of Tier 1 is to officially introduce the
 - Iterators
 - Objects
 
-## The Codecademy Introduction to Javascript Course
+### The Codecademy Introduction to Javascript Course
 
 We are going to start off with the brilliant [codecademy intro to javascript](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome) interactive online (Free) course. You CAN pay for upgrade memberships to codecademy but it is not necessary - a free account is fine to complete this course.
 
@@ -40,3 +40,7 @@ Once more: we will be using these concepts to put together our first project for
 I want to give everyone a chance to go through as much of the Codecademy course as they can before I give my take on it / a lecture covering the same material… I will have the first of probably 3 live sessions covering this content this coming weekend, and 2-3 more the following week. By the end of next week I want have introduced the project and have students turning them in. I was hoping to do this tier-1 in 2 weeks, but it ended up being three… Sorry about that!
 
 Check out the announcements channel in your cohort for the posted live sessions by me, and PLEASE: make an effort to go through as much of the codecademy course as you can before attending these sessions - you will get so much more out of me _attempting_ to cover this material if you’ve already taken a stab at understanding it yourselves :)
+
+## Tier 1 Captstone Project
+
+Coming Soon...
