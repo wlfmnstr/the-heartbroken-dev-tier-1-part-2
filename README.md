@@ -37,9 +37,13 @@ Once more: we will be using these concepts to put together our first project for
 
 ## Lectures & Office Hours on This Content
 
-I want to give everyone a chance to go through as much of the Codecademy course as they can before I give my take on it / a lecture covering the same material… I will have the first of probably 3 live sessions covering this content this coming weekend, and 2-3 more the following week. By the end of next week I want have introduced the project and have students turning them in. I was hoping to do this tier-1 in 2 weeks, but it ended up being three… Sorry about that!
+I want to give everyone a chance to go through as much of the Codecademy course as they can before I give my take on it / a lecture covering the same material… I will schedule 2-4 lectures/live walkthroughs of this content for each cohort. If at all possible, attempt to progress through as much of the codecademy course as much as they can before joining the lecture.
 
-Check out the announcements channel in your cohort for the posted live sessions by me, and PLEASE: make an effort to go through as much of the codecademy course as you can before attending these sessions - you will get so much more out of me _attempting_ to cover this material if you’ve already taken a stab at understanding it yourselves :)
+Check out the announcements channel and events scheduled in your respective cohorts for the posted live sessions by me, and one more time, PLEASE: make an effort to go through as much of the codecademy course as you can before attending these sessions - you will get so much more out of my *attempts* at covering this material if you’ve already taken a stab at understanding it yourselves :)
+
+We will wrap this tier-1 up with a captstone project at the end. The time between my publishing of this part-2 content and the submissions for the capstone project will be roughly 1 week - so go quick if you *can* but the asynchronous nature of this bootcamp should hopefully allow for folks to move at their own pace as needed too. 
+
+As always, the community and myself are at your disposal for questions, sharing, and getting un-stuck!
 
 ## Tier 1 Captstone Project
 
